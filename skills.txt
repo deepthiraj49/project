@@ -1,1 +1,3 @@
 dis is devops learning
+git is lightweight
+devops is combination of ops and devops
