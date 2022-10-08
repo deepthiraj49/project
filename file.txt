@@ -1,7 +1,0 @@
-did is devops training
-tress are green
-<<<<<<< HEAD
-git is light
-=======
-added new line
->>>>>>> 4877c643714fc991c31158c95d0df5a662c45fce
